@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoAd</string>
+    <string name="skipAdServiceLabel">开屏广告自动跳过服务</string>
+    <string name="skipAdServiceDescription">自动帮你点击开屏广告的跳过按钮</string>
+    <string name="power_off">已关闭</string>
+    <string name="power_on">已开启</string>
+    <string name="skipAd">自动跳过广告</string>
+
+    <string name="dialog_title_prompt">提示</string>
+    <string name="dialog_button_cancel">取消</string>
+    <string name="dialog_enableSkipAdService_message">点击 “无障碍设置“ 按钮打开无障碍设置页面，按如下步骤操作：\n1.点击 “更多已下载的服务“ 或 “已下载的应用“ 进入下级页面\n2.点击 “开屏广告自动跳过服务“\n3.点击 “开启服务“\n4.确认弹窗中点击 “确认“</string>
+    <string name="dialog_enableSkipAdService_button_confirm">无障碍设置</string>
+    <string name="toast_service_enabled">服务已开启</string>
+</resources>
